@@ -1,0 +1,23 @@
+{
+  "name": "suppress-files-webpack-plugin",
+  "version": "1.0.0",
+  "description": "Webpack plugin to remove files that match a regex from the build output.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamdavidjackson/suppress-files-webpack-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "webpack-plugin"
+  ],
+  "author": "David Jackson <davidjackson123@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamdavidjackson/suppress-files-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/iamdavidjackson/suppress-files-webpack-plugin#readme"
+}
